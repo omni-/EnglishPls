@@ -1,0 +1,12 @@
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\obj\Debug\EnglishPls.csprojResolveAssemblyReference.cache
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\EnglishPls.dll
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\EnglishPls.pdb
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\Newtonsoft.Json.dll
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\TerrariaServer.exe
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\TShockAPI.dll
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\MySql.Data.dll
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\HttpServer.dll
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\BCrypt.Net.dll
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\Mono.Data.Sqlite.dll
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\obj\Debug\EnglishPls.dll
+c:\users\cooper\documents\visual studio 2013\Projects\EnglishPls\EnglishPls\obj\Debug\EnglishPls.pdb
