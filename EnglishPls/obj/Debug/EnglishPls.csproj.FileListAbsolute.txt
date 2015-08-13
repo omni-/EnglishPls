@@ -14,10 +14,10 @@ C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\E
 C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\EnglishPls.pdb
 C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\Newtonsoft.Json.dll
 C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\TerrariaServer.exe
-C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\obj\Debug\EnglishPls.csprojResolveAssemblyReference.cache
 C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\obj\Debug\EnglishPls.dll
 C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\obj\Debug\EnglishPls.pdb
 C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\MySql.Data.dll
 C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\HttpServer.dll
 C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\BCrypt.Net.dll
 C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\bin\Debug\ServerPlugins\Mono.Data.Sqlite.dll
+C:\Users\Cooper\Documents\GitHub\EnglishPls\EnglishPls\obj\Debug\EnglishPls.csprojResolveAssemblyReference.cache

@@ -43,6 +43,8 @@ namespace EnglishPls
             Commands.ChatCommands.Add(new Command("tshock.cfg.reload", ConfigReload, "epreload"));
             if (!ReadConfig())
                 TShock.Log.ConsoleError("Error in config file.");
+            if (!IsValid("Mr. Batasta"))
+                TShock.Log.ConsoleError("Invalid string.");
         }
 
         #region config
@@ -120,10 +122,10 @@ namespace EnglishPls
         private bool IsValid(string s)
         {
             string cset = "", 
-                   legalA = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890", 
-                   legalS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-=!@#$%^&*()_+`~[]\\{}|;':\",./<>?";
+                   legalA = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 ", 
+                   legalS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-=!@#$%^&*()_+`~[]\\{}|;':\",./<>? ";
 
-            if (cfg.CustomCharset != "null")
+            if (cfg.CustomCharset == "null")
                 cset = cfg.AllowSymbols ? legalS : legalA;
             else
                 cset = cfg.CustomCharset;
