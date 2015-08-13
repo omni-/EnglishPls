@@ -11,6 +11,7 @@ using TShockAPI;
 
 namespace EnglishPls
 {
+    [ApiVersion(1, 21)]
     public class EnglishPls : TerrariaPlugin
     {
         public Config cfg = new Config();
